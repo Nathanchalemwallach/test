@@ -1,0 +1,4 @@
+pip install git+https://github.com/shashankdeshpande/kaprekar_constant.git 
+>>> obj = kc.kaprekar_routine(1913)
+>>> obj
+<kaprekar_constant.object.Kaprekar at 0x7f1ae2f085c0>
